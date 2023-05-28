@@ -1,0 +1,7 @@
+{
+    "sketch": "LarcBasicController.ino",
+    "board": "arduino:avr:mega",
+    "output": ".\\bin",
+    "programmer": "arduino:avrisp",
+    "port": "COM4"
+}
